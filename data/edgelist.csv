@@ -408,7 +408,7 @@ Kevin A. Gluck,The learning sciences,undirected
 Daniel C. Edelson,Computer Science,undirected
 Daniel C. Edelson,Education,undirected
 Daniel C. Edelson,The learning sciences,undirected
-Janet L. Kolodner,math,undirected
+Janet L. Kolodner,math and computer science,undirected
 Janet L. Kolodner,computer science,undirected
 Susan A. Yoon,Biology,undirected
 Susan A. Yoon,Education,undirected
@@ -417,7 +417,7 @@ Susan A. Yoon,Technology Education,undirected
 Susan A. Yoon,Science Education,undirected
 Jan van Aalst,Physics,undirected
 Jan van Aalst,Education,undirected
-Jan van Aalst,Science Education,undirected
+Jan van Aalst,Curriculum Studies (Science Education),undirected
 Iris Tabak,Learning Sciences,undirected
 Iris Tabak,Computer Engineering,undirected
 Josh Radinsky,Comparative History,undirected
@@ -6290,13 +6290,12 @@ Michael Eisenberg,临床医学,Undirected
 Michael Eisenberg,生物学,Undirected
 Michael Eisenberg,计算机科学与技术,Undirected
 Agnes Stylianou,Computer Science,Undirected
-Amy B. Ellis,Math,Undirected
-Amy B. Ellis,Education,Undirected
+Amy B. Ellis,Mathematics and Science Education,Undirected
+Amy B. Ellis,Mathematics,Undirected
 Anthi Archodidou,Education,Undirected
 Anthi Archodidou,Communication,Undirected
 Anthi Archodidou,Psychology,Undirected
-Anna Sfard,Education,Undirected
-Anna Sfard,Math,Undirected
+Anna Sfard,Math Education,Undirected
 Carol K. K. Chan,Education,Undirected
 Carol K. K. Chan,Educational Technology,Undirected
 Carol K. K. Chan,Psychology,Undirected
@@ -6306,8 +6305,7 @@ Craig Jackson,Law,Undirected
 Cindy E. Hmelo-Silver,Education,Undirected
 Cindy E. Hmelo-Silver,Educational Technology,Undirected
 Cindy E. Hmelo-Silver,Computer Science,Undirected
-Eli Gottlieb,Psychology,Undirected
-Eli Gottlieb,Management,Undirected
+Eli Gottlieb,religious thinking,Undirected
 Eric Klopfer,Education,Undirected
 Eric Klopfer,Educational Technology,Undirected
 Eric Klopfer,Computer Science,Undirected
@@ -6319,11 +6317,14 @@ Hakan Tuzun,Computer Science,Undirected
 Ilana Seidel Horn,Math,Undirected
 Ilana Seidel Horn,Education,Undirected
 Il-Hee Kim,Math,Undirected
+Il-Hee Kim,Computational and Applied Mathematics,Undirected
 Janet L. Kolodner,Computer Science,Undirected
 Janet L. Kolodner,Psychology,Undirected
 Janet L. Kolodner,Education,Undirected
 Janet L. Kolodner,Math,Undirected
-Jessica Goldstein,Psychology,Undirected
+Jessica Goldstein,educational psychology,Undirected
+Jessica Goldstein,measurement, evaluation, and assessment,Undirected
+Jan van Aalst,Curriculum Studies (Science Education),Undirected
 Jan van Aalst,Education,Undirected
 Jan van Aalst,Physics,Undirected
 Jerry Andriessen,Education,Undirected
@@ -6333,35 +6334,37 @@ Jerry Andriessen,Psychology,Undirected
 Kim Nguyen-Jahiel,Psychology,Undirected
 Kim Nguyen-Jahiel,Education,Undirected
 Kim Nguyen-Jahiel,Communication,Undirected
-Kurt Squire,Education,Undirected
+Kurt Squire,Instructional Systems Technology,Undirected
 Lei Liu,Computer Science,Undirected
 Lei Liu,Industrial Engineering,Undirected
-Lisa C. Yamagata-Lynch,Education,Undirected
-Lisa C. Yamagata-Lynch,Educational Technology,Undirected
+Lisa C. Yamagata-Lynch,Instructional Systems Technology,Undirected
 Lisa C. Yamagata-Lynch,Psychology,Undirected
 Michael Eisenberg,Computer Science,Undirected
 Michael Eisenberg,Psychology,Undirected
 Michael Eisenberg,Chemistry,Undirected
 Michael K. Thomas,Psychology,Undirected
 Michael K. Thomas,Education,Undirected
-Marije van Amelsvoort,Psychology,Undirected
-Marije van Amelsvoort,Education,Undirected
+Michael K. Thomas,Language Education,Undirected
+Marije van Amelsvoort,educational psychology,Undirected
+Marije van Amelsvoort,educational sciences,Undirected
 Mitchell J. Nathan,Psychology,Undirected
 Mitchell J. Nathan,Education,Undirected
 Mitchell J. Nathan,Computer Science,Undirected
 Mitchell J. Nathan,Math,Undirected
 Mitchell J. Nathan,History,Undirected
 Noel Enyedy,Education,Undirected
+Noel Enyedy,Cognitive Science,Undirected
 Orit Parnafes,Education,Undirected
 Richard C. Anderson,Psychology,Undirected
 Richard C. Anderson,Education,Undirected
 Richard C. Anderson,History,Undirected
-Sadhana Puntambekar,Computer Science,Undirected
+Sadhana Puntambekar,Cognitive and Computing Sciences,Undirected
 Sadhana Puntambekar,Psychology,Undirected
 Shiuli Mukhopadhyay,Math,Undirected
 Shiuli Mukhopadhyay,Education,Undirected
 Sasha Barab,Psychology,Undirected
 Sasha Barab,Education,Undirected
+Sasha Barab,Cognition and Instruction,Undirected
 Surabhi Marathe,Computer Science,Undirected
 Surabhi Marathe,Physics,Undirected
 Surabhi Marathe,Biology,Undirected
@@ -7340,7 +7343,8 @@ Karen Littleton,Language Education,Undirected
 Paul Mulholland,Brain Tumour Service,Undirected
 Claire O'Malley,Collaborative Learning,Undirected
 Nicole A. Bannister,Learning Sciences,Undirected
-Ilana Seidel Horn,Teaching Methods,Undirected
+Ilana Seidel Horn,Mathematics Education,Undirected
+Ilana Seidel Horn,Mathematics,Undirected
 Britnie Delinger Kane,Teacher Education,Undirected
 Jennifer Evarts Lineback,Curriculum Theory,Undirected
 Hala Ghousseini,Educational Technology,Undirected
@@ -9162,7 +9166,7 @@ Jeffrey W. Bloom,Biology,Undirected
 Jeffrey W. Bloom,Instruction,Undirected
 Martin Packer,Natural Sciences,Undirected
 Martin Packer,Psychology,Undirected
-Agnes Stylianou,Computer Science,Undirected
+Agnes Stylianou,Education,Undirected
 Amy B. Ellis,Math,Undirected
 Amy B. Ellis,Education,Undirected
 Anthi Archodidou,Education,Undirected
@@ -9181,14 +9185,11 @@ Cindy E. Hmelo-Silver,Educational Technology,Undirected
 Cindy E. Hmelo-Silver,Computer Science,Undirected
 Eli Gottlieb,Psychology,Undirected
 Eli Gottlieb,Management,Undirected
-Eric Klopfer,Education,Undirected
-Eric Klopfer,Educational Technology,Undirected
-Eric Klopfer,Computer Science,Undirected
-Gellof Kanselaar,Education,Undirected
+Eric Klopfer,Biology,Undirected
+Eric Klopfer,Statistics,Undirected
 Gellof Kanselaar,Psychology,Undirected
-Gellof Kanselaar,Communication,Undirected
-Hakan Tuzun,Education,Undirected
-Hakan Tuzun,Computer Science,Undirected
+Hakan Tuzun,Instructional Systems Technology,Undirected
+Hakan Tuzun,Computer Education,Undirected
 Ilana Seidel Horn,Math,Undirected
 Ilana Seidel Horn,Education,Undirected
 Il-Hee Kim,Math,Undirected
@@ -9221,11 +9222,11 @@ Marije van Amelsvoort,Psychology,Undirected
 Marije van Amelsvoort,Education,Undirected
 Mitchell J. Nathan,Psychology,Undirected
 Mitchell J. Nathan,Education,Undirected
-Mitchell J. Nathan,Computer Science,Undirected
+Mitchell J. Nathan,Electrical and Computer Engineering,Undirected
 Mitchell J. Nathan,Math,Undirected
 Mitchell J. Nathan,History,Undirected
 Noel Enyedy,Education,Undirected
-Orit Parnafes,Education,Undirected
+Orit Parnafes,Science and Math Education,Undirected
 Richard C. Anderson,Psychology,Undirected
 Richard C. Anderson,Education,Undirected
 Richard C. Anderson,History,Undirected
@@ -9537,3 +9538,6 @@ de Jong Ton,Instructional Technology ,Undirected
 Abrahamson Dor,Psychology,Undirected
 Abrahamson Dor,Learning Science,Undirected
 Abrahamson Dor,Mathematics Education,Undirected
+Cindy Hmelo-Silver,Educational Technology,Undirected
+Cindy Hmelo-Silver,Educational Computing,Undirected
+Cindy Hmelo-Silver,Cardiorespiratory Sciences,Undirected
